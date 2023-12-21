@@ -1,12 +1,11 @@
-## Hi there 👋
+# Catatmak - Record Finances Just Like Chatting with Your Friends
 
-<!--
+![Catatmak Logo](https://avatars.githubusercontent.com/u/147067250?s=400&u=e2fddf03752f5a43d480ba9d4c23fb3342f859c1&v=4)
 
-**Here are some ideas to get you started:**
+## Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Catatmak is a capstone project for CH2-PS381 that aims to provide a unique and user-friendly approach to recording and managing finances. The idea is to make the financial tracking process as simple and engaging as chatting with friends. By combining the convenience of chat interfaces with robust financial tracking features, Catatmak makes it easy for users to stay on top of their expenses and income.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
